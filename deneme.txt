@@ -2,6 +2,3 @@ print(dsfesfsd)
 selamlar
 merhablar
 nasılsınız
-Berkay hoş geldin
-fhjfhjlgfhf
-fhfghfghfg
