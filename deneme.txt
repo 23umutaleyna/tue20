@@ -1,1 +1,3 @@
 print(dsfesfsd)
+bu oyunun test halidir
+birazdan güncelliycem
